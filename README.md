@@ -1,0 +1,2 @@
+# ConnectionsManager
+Keeping connectionstrings encrypted
